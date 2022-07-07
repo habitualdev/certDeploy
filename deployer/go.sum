@@ -1,0 +1,6 @@
+github.com/gonutz/osext v0.0.0-20171206091709-9e22409d6bb6 h1:vAvgynfXIxgHWrvrmu7g2piZIDAA7uw4dD8/5vCIjwg=
+github.com/gonutz/osext v0.0.0-20171206091709-9e22409d6bb6/go.mod h1:t/OxDhDGZjNV9ptD1jcp+ROhhXzUMm5nOMakDXPlOO4=
+github.com/gonutz/payload v0.0.0-20200420182335-06bf3cb76a25 h1:qz0sSPMDBz1bCB2Pro3kDugG8f8dwu8mHh7gFWxJ2I0=
+github.com/gonutz/payload v0.0.0-20200420182335-06bf3cb76a25/go.mod h1:3Kz4R8BWJTaMWJwkFZcxc+GNg9jAJOgueg2P3BY4E0k=
+golang.org/x/sys v0.0.0-20220704084225-05e143d24a9e h1:CsOuNlbOuf0mzxJIefr6Q4uAUetRUwZE4qt7VfzP+xo=
+golang.org/x/sys v0.0.0-20220704084225-05e143d24a9e/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
